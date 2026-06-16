@@ -1,5 +1,5 @@
 # About:
-> IT student at Universidade Federal de Uberlândia <br>> Graduated in Computer Graphics<br>> Computer networks and cybersec enthusiast <br>> Professional high fantasy reader <br>
+> Cybersecurity Analyst <br>> Graduated in Computer Graphics <br>> IT student at Universidade Federal de Uberlândia <br>> Professional high fantasy reader <br>
 
 
 ## Contact:
